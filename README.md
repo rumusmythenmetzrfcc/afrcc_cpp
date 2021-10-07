@@ -18,7 +18,10 @@ Free software, on the other hand, has the same permissive guidance about getting
 Participants and ideas for features are welcome.
 
 The code shall be developed with disciplines and practices as teached by Uncle Bob -> https://cleancoders.com/
-The C++ code shall designed with great influence by the vast experience from the guys of Bloomberg -> John Lakos - Large-Scale C++ Volume I: Process and Architecture
-Good social human beahviour is king, as lived for example by Ghandi.
+The C++ code shall be designed with great influence by the vast experience from the guys of Bloomberg -> John Lakos - Large-Scale C++ Volume I: Process and Architecture
+Good social human behaviour is king, as lived for example by Ghandi.
 
 Let's create free software for the future of our kids an theirs.
+
+---
+This software is licensed by GPL version 3 or any later version
