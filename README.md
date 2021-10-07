@@ -1,5 +1,5 @@
 # afrcc_cpp
-A Free Resuable Clean Code, free software repo for C++
+A Free Resuable Clean Code, free software repo for Core C++ functionality
 
 The goal for the afrcc repos is to provide free software for generations to come.
 
