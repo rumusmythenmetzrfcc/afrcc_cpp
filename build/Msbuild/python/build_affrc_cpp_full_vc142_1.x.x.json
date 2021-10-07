@@ -1,0 +1,15 @@
+{
+  "msbuildOptions": "/p:PlatformToolset=v142 -t:rebuild",
+  "repoDir": "${AFRCC_CPP_REPO_ROOT}",
+  "deployDir": "${AFRCC_CPP_DEPLOY_ROOT}AFRCC_CPP_1.x.x-vc142",
+  "proDir": "${AFRCC_CPP_PRO_ROOT}VisualStudio",
+
+  "slnFileSubPaths": [
+		"time/afrcc-time.sln",
+    "timing/afrcc-timing.sln"
+  ],
+	
+  "headerOnlySubDirs": [
+		"algo"
+  ]
+}
